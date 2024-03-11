@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\obj\Debug\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\obj\Debug\Exercicio7.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 1\Exercicio7\obj\Debug\Exercicio7.pdb

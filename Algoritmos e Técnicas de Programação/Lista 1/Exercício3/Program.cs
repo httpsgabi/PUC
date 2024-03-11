@@ -15,7 +15,7 @@ namespace Exercício3
             Console.WriteLine("Digite a temperatura em Fahrenheit para converte-la para graus Celsius");
             int temperatura = int.Parse(Console.ReadLine());
 
-            int Celsius = (5 * ((temperatura - 32)) / 9;
+            double Celsius = (5 * (temperatura - 32)) / 9;
 
             Console.WriteLine("A temperatura em Celsius é: " + Celsius);
             Console.ReadLine();
