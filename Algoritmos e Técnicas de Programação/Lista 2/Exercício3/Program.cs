@@ -18,18 +18,18 @@ namespace Exercício3
             }
             else {
                 Console.WriteLine("Digite o tipo da habilitação: ");
-                string tipoHabilitacao = Console.ReadLine();
+                char tipoHabilitacao = char.Parse(Console.ReadLine());
                 Console.WriteLine("Digite o tempo de sua habilitação");
                 int tempoHabilitado = int.Parse(Console.ReadLine());
 
                 if (idade >= 21)
                 {
-                    if (tipoHabilitacao == "A" || tipoHabilitacao == "a")
+                    if (tipoHabilitacao == 'A' || tipoHabilitacao == 'a')
                     {
                         Console.WriteLine("Você não está habilitado para a carteira D, os requisitos são: ");
                         Console.WriteLine("1. Ter 21 anos completos;\r\n2. Estar habilitado no mínimo há 2 anos na categoria B ou 1 ano na categoria C.");
                     }
-                    else if (tipoHabilitacao == "B" || tipoHabilitacao == "b")
+                    else if (tipoHabilitacao == 'B' || tipoHabilitacao == 'b')
                     {
                         if(tempoHabilitado < 2)
                         {
@@ -41,7 +41,7 @@ namespace Exercício3
                             Console.WriteLine("Você está apto para o tipo de habilitação D!");
                         }
                     }
-                    else if (tipoHabilitacao == "C" || tipoHabilitacao == "c")
+                    else if (tipoHabilitacao == 'C' || tipoHabilitacao == 'c')
                     {
                         if (tempoHabilitado < 1)
                         {

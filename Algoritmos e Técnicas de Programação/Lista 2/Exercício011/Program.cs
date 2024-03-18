@@ -11,30 +11,41 @@ namespace Exercício011
         static void Main(string[] args)
         {
             Console.WriteLine("Digite uma letra para saber se ela é vogal ou consoante: ");
-            string letra = Console.ReadLine();
-            
-            switch (letra)
-            {
-                case "a":
-                case "e":
-                case "i":
-                case "o":
-                case "u":
-                    Console.WriteLine("É uma vogal");
-                break;
+            char letra = char.Parse(Console.ReadLine());
 
-                case "A":
-                case "E":
-                case "I":
-                case "O":
-                case "U":
-                    Console.WriteLine("É uma vogal");
-                    break;  
-                default:
-                    Console.WriteLine("É uma consoante");
-                    break;
+            char limiteIicialMin = 'a';
+            char limiteFinalMin = 'z';
+            char limiteIicialMax = 'A';
+            char limiteFinalMax = 'Z';
+
+
+            if ((letra >= limiteIicialMin && letra <= limiteFinalMin) || (letra >= limiteIicialMax && letra <= limiteFinalMax)){
+                switch (letra)
+                {
+                    case 'a':
+                    case 'e':
+                    case 'i':
+                    case 'o':
+                    case 'u':
+                        Console.WriteLine("É uma vogal");
+                        break;
+
+                    case 'A':
+                    case 'E':
+                    case 'I':
+                    case 'O':
+                    case 'U':
+                        Console.WriteLine("É uma vogal");
+                        break;
+                    default:
+                        Console.WriteLine("É uma consoante");
+                        break;
+                }
             }
-            
+            else
+            {
+                Console.WriteLine("Apenas letras são válidas");
+            }
             Console.ReadLine();
         }
     }
