@@ -40,21 +40,24 @@
 
         <form>
             <label for="Nome: ">Digite seu nome </label>
-            <input type="text" name="nome" id="nome" />
+            <input type="text" name="nome" id="nome" name="nome"/>
 
             <label for="email: ">Digite seu email </label>
-            <input type="mailto" name="email" id="email" />
+            <input type="mailto" name="email" id="email" name="email"/>
 
-            <label for="Nome: ">Digite qual cão você teve interesse e o porquê </label>
-            <textarea name="msg" cols="30" rows="5"></textarea>
+            <label for="Nome: ">Digite qual cão você teve interesse</label>
+            <textarea name="msg" cols="5" rows="2" name="cao"></textarea>
 
-            <input type="submit" value="Enviar">
+            <label for="Nome: ">Por que você deveria adotar um de nossos cães?</label>
+            <textarea name="msg" cols="30" rows="5" name="motivo"></textarea>
+
+            <input type="submit" value="Enviar" name="mensagem">
 
         </form>
     </main>
 
     <footer>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur voluptates, ducimus quaerat vero reprehenderit at? Nemo assumenda quidem quod aliquid accusamus, ad mollitia non vero hic consequatur quae. Tenetur, iure?</p>
+        <p>Todos os direitos reservados a &copy;Copyright</p>
     </footer>
 </body>
 </html>
