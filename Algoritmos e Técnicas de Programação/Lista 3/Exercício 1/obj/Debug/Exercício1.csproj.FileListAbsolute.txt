@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\bin\Debug\Exercício 1.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\bin\Debug\Exercício 1.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\bin\Debug\Exercício 1.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\obj\Debug\Exercício1.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\obj\Debug\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\obj\Debug\Exercício 1.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 3\Exercício 1\obj\Debug\Exercício 1.pdb
