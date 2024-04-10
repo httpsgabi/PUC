@@ -10,7 +10,8 @@ namespace Exercício7
     {
         static void Main(string[] args)
         {
-            int num, a = 1, b = 1, contador = 1, temp;
+            int num, contador = 1;
+            double a = 1, b = 1, temp;
 
             Console.Write("Digite um valor para calcular a sua sequência Fibonnaci: ");
             num = int.Parse(Console.ReadLine());
