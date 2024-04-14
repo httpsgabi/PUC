@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2323442A-0BB9-4C76-934B-F860B6A59847}|Exerc\u00EDcio7\\Exerc\u00EDcio7.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 4\\exerc\u00EDcio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2323442A-0BB9-4C76-934B-F860B6A59847}|Exerc\u00EDcio7\\Exerc\u00EDcio7.csproj|solutionrelative:exerc\u00EDcio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C608EEC-BECF-42F3-BBB3-4595D3E2344F}|Exerc\u00EDcio4\\Exerc\u00EDcio4.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\exerc\u00EDcio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C608EEC-BECF-42F3-BBB3-4595D3E2344F}|Exerc\u00EDcio4\\Exerc\u00EDcio4.csproj|solutionrelative:exerc\u00EDcio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557A27B7-F3F3-4F9A-A12E-054ADABE437C}|Exerc\u00EDcio3\\Exerc\u00EDcio3.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\exerc\u00EDcio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557A27B7-F3F3-4F9A-A12E-054ADABE437C}|Exerc\u00EDcio3\\Exerc\u00EDcio3.csproj|solutionrelative:exerc\u00EDcio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB10C839-7652-4323-B759-9154E5B50DB5}|Exerc\u00EDcio2\\Exerc\u00EDcio2.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\exerc\u00EDcio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB10C839-7652-4323-B759-9154E5B50DB5}|Exerc\u00EDcio2\\Exerc\u00EDcio2.csproj|solutionrelative:exerc\u00EDcio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E52379-14A5-4B69-9942-7D2BF4791115}|Exerc\u00EDcio1\\Exerc\u00EDcio1.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\exerc\u00EDcio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E52379-14A5-4B69-9942-7D2BF4791115}|Exerc\u00EDcio1\\Exerc\u00EDcio1.csproj|solutionrelative:exerc\u00EDcio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB76C05-2D3D-41D8-8728-E1BB0B3E36EA}|Exerc\u00EDcio7-new\\Exerc\u00EDcio7-new.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 4\\exerc\u00EDcio7-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB76C05-2D3D-41D8-8728-E1BB0B3E36EA}|Exerc\u00EDcio7-new\\Exerc\u00EDcio7-new.csproj|solutionrelative:exerc\u00EDcio7-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,62 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio7\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio7\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio7\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio7\\Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 4\\Exerc\u00EDcio7-new\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio7-new\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 4\\Exerc\u00EDcio7-new\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio7-new\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwEkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:51:09.513Z",
+              "WhenOpened": "2024-04-14T19:08:40.153Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio4\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio4\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio4\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio4\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:50:36.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio3\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio3\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio3\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio3\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAuwDMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:50:27.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio2\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio2\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio2\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio2\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:50:15.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio1\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio1\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\LIsta 4\\Exerc\u00EDcio1\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio1\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAuwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:50:04.719Z"
             }
           ]
         }
