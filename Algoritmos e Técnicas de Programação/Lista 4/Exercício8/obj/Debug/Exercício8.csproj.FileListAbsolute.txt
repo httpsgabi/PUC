@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\bin\Debug\Exercício8.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\bin\Debug\Exercício8.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\bin\Debug\Exercício8.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\obj\Debug\Exercício8.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\obj\Debug\Exercício8.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\obj\Debug\Exercício8.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\LIsta 4\Exercício8\obj\Debug\Exercício8.pdb
