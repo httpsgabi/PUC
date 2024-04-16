@@ -1,0 +1,30 @@
+body, main, header, div, h1, h2, h3, p, a{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 3vw; 
+}
+
+h2{
+    font-size: 20pt;    
+}
+
+h3{
+    font-size: 15pt;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul.navbar-nav{
+    font-size: 2vw;
+    text-transform: uppercase;
+}
+
+.fixed-card {
+    width: 250px; /* Largura fixa desejada */
+    height: 250px; /* Altura fixa desejada */
+}
