@@ -4,6 +4,7 @@ body, main, header, div, h1, h2, h3, p, a{
 }
 h1{
     font-size: 3vw; 
+    background-color: #dee2e6;
 }
 
 h2{
@@ -12,6 +13,9 @@ h2{
 
 h3{
     font-size: 15pt;
+}
+footer{
+    font-size: 0.8vw;
 }
 
 a{
@@ -25,6 +29,11 @@ ul.navbar-nav{
 }
 
 .fixed-card {
-    width: 250px; /* Largura fixa desejada */
-    height: 250px; /* Altura fixa desejada */
+    width: 250px; 
+    height: 250px;
+}
+
+.fixed-carrossel{
+    width: 900px; 
+    height: 350px;
 }
