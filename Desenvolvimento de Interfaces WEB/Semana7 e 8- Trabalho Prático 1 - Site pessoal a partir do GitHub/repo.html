@@ -4,48 +4,61 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!--Referências Bootstrap-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="index.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!--Folhas de estilo-->
+    <link rel="stylesheet" href="assets/css/index.css">
     
+    <!--Título e ícone da página-->
     <title>Descrição do Repositório</title>
+    <link rel="icon" href="assets/icons/github.svg" sizes="32x32" type="image/png">
 </head>
 <body>
     
     <header class="container p-0">
-        <nav class="container navbar navbar-expand-lg navbar-expand-sm navbar-expand-md p-0 py-2">
+        <nav class="container navbar navbar-expand-lg p-0 py-2 navbar-light">
             <div class="container-fluid p-0">
-                <h1 class="py-2 px-5"><a href="index.html">Gabrielle</a></h1>
-                
-                <div class="collapse navbar-collapse d-flex justify-content-end ">
-                    <ul class="navbar-nav">
-                        <li class="nav-item mx-1">
-                            <a class="nav-link" href="#">Link 1</a>
-                        </li>
-                        <li class="nav-item mx-1">
-                            <a class="nav-link" href="#">Link 2</a>
-                        </li>
-                        <li class="nav-item mx-1">
-                            <a class="nav-link" href="#">Link 3</a>
-                        </li>
-                    </ul>
-                </div>
+            <h1 class="py-2 px-5"><a href="index.html">Gabrielle</a></h1>
+
+              <button class="navbar-toggler border-secondary mr-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item mx-1">
+                    <a class="nav-link" aria-current="page" href="#">Link 1</a>
+                  </li>
+                  <li class="nav-item mx-1">
+                    <a class="nav-link" href="#">Link 2</a>
+                  </li>
+                  <li class="nav-item mx-1">
+                    <a class="nav-link" href="#">Link 3</a>
+                  </li>
+                  <li class="nav-item mx-1">
+                    <a class="nav-link" href="#">Link 4</a>
+                  </li>
+                </ul>
+              </div>
             </div>
-        </nav>
+          </nav>
     </header>
 
     <main class="container p-0">          
-        <section class="row m-0">
-            <h2 class="col-12 border-bottom border-dark mb-3 p-0 py-2">Repositório: PUC</h2>
+        <section class="row m-0 ">
+            <h2 class="col-12 border-bottom border-dark my-3 p-0 py-2 ">Repositório: PUC</h2>
 
             <h3 class="col-12 text-primary p-0 mb-2">Descrição</h3>
             <p class=" mb-2">Esse repositório foi criado para armazenar as atividades feitas durante o curso de Sistemas de Informação - PUC, no primeiro semestre, as matérias: Algoritmos e Técnicas de Programação(ATP), com foco na introdução à programação utilizando a linguagem C#, e Desenvolvimento de Interfaces Web(DIW), que possui foco no desesnvolvimento WEB utilizando HTML5, CSS3, e Javascript. As matérias são separadas em pastas diferentes e cada uma possui as pastas com seus respectivos exercícios.</p>
 
             <h3 class="col-9 text-primary p-0  mb-2">Data de Criação</h3>
-            <img src="icons/favoritos.svg" alt="Icone de Favoritos" class="offset-1">
+            <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos" class="offset-1">
             <p class="d-inline">(3)</p>
             <p class="col-9 p-0">11-03-2024</p>
-            <img src="icons/pessooas.svg" alt="Icone de pessosas" class="offset-1">
+            <img src="assets/icons/pessooas.svg" alt="Icone de pessosas" class="offset-1">
             <p class="d-inline">(3)</p>
 
             <h3 class="col-12 text-primary p-0  mb-2">Linguagem</h3>
@@ -65,12 +78,9 @@
         </section>  
     </main>
 
-    <footer class="container bg-light mt-2">
-        <div class="text-center">
-            <p>&copy; Copyright | 2024, Todos os Direitos Reservados</p>
-            <p> Rua Walter Ianni, 255 - São Gabriel, Belo Horizonte - MG, 31980-110</p>
-
-            <p>Trabalho prático desenvolvido para a disciplina de Desenvolvimento de Interfaces Web por Gabrielle Maia, 18 anos, natural de Belo Horizonte-MG </p>
+    <footer class="container bg-light">
+        <div class="text-center py-3">
+            <p>&copy; Copyright | 2024, Gabrielle Maia, Código de Pessoa: 1524475</p>
         </div>
     </footer>
 </body>

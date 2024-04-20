@@ -4,47 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!--Referências Bootstrap-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="index.css">
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
+    <!--Folhas de estilo-->
+    <link rel="stylesheet" href="assets/css/index.css">
+    
+    <!--Título e ícone da página-->
     <title>Home</title>
+    <link rel="icon" href="assets/icons/github.svg" sizes="32x32" type="image/png">
 </head>
 <body>
-    
-    <header class="container">
-                
-        <nav class="navbar navbar-expand-lg p-0 py-2">
+    <!--Todo o cabeçalho e navbar-->
+    <header class="container p-0">                
+        <nav class="navbar navbar-expand-lg p-0 py-2 navbar-light">
             <div class="container-fluid">
               <h1 class="py-2 px-5">Gabrielle</h1>
 
-              <button class="navbar-toggler btn-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+              <button class="navbar-toggler border-secondary mr-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon "></span>
               </button>
 
               <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item mx-1">
-                    <a class="nav-link active" aria-current="page" href="#perfil">Seção 1</a>
+                    <a class="nav-link" aria-current="page" href="#perfil">Perfil</a>
                   </li>
                   <li class="nav-item mx-1">
-                    <a class="nav-link" href="#repositorios">Seção 2</a>
+                    <a class="nav-link" href="#repositorios">Repositórios</a>
                   </li>
                   <li class="nav-item mx-1">
-                    <a class="nav-link" href="#conteudo_sugerido">Seção 3</a>
+                    <a class="nav-link" href="#conteudo_sugerido">Conteúdo Sugerido</a>
                   </li>
                   <li class="nav-item mx-1">
-                    <a class="nav-link" href="#colegas">Seção 4</a>
+                    <a class="nav-link" href="#colegas">Colegas</a>
                   </li>
                 </ul>
               </div>
             </div>
           </nav>
     </header>
-        
-    <main class="container ">  
+    
+    <!--Tudo fora do cabeçalho e navbar, conteúdo central do site-->
+    <main class="container "> 
+      
+        <!--Primeira Seção, sobre o perfil-->
         <section class="row my-3 d-flex justify-content-center">
             <h2 id="perfil" class="col-12 border-bottom border-dark mb-3 p-2 d-flex justify-content-center justify-content-sm-start">Perfil</h2>
 
@@ -59,22 +65,23 @@
                 <p class="col-11 mb-3 p-0 d-flex"><strong>Location: </strong> Minas Gerais, Brasil</p>
 
                 <div class="">
-                    <img src="icons/pessooas.svg" alt="Icon de pessoas que seguem esse perfil" class="text-end">
+                    <img src="assets/icons/pessooas.svg" alt="Icon de pessoas que seguem esse perfil" class="text-end">
                     <p class="d-inline text-end">30</p>
                 </div>    
 
                 <p class="mb-3"><strong>Site:</strong> <a href="https://github.com/httpsgabi" class="text-primary" target="_blank"> https://github.com/httpsgabi</a> </p>
 
                 <div class="col-12 p-0">
-                    <a href="https://www.facebook.com/zuck/?locale=pt_BR"><img src="icons/facebook.svg" alt="Icone do facebook"></a>
+                    <a href="https://www.facebook.com/zuck/?locale=pt_BR"><img src="assets/icons/facebook.svg" alt="Icone do facebook"></a>
 
-                    <a href="https://twitter.com/elonmusk"><img src="icons/twitter.svg" alt="Icone do twitter"></a>
+                    <a href="https://twitter.com/elonmusk"><img src="assets/icons/twitter.svg" alt="Icone do twitter"></a>
 
-                    <a href="https://www.instagram.com/gbmaiaa._/" target="_blank" ><img src="icons/instagram.svg" alt="Icone do instagram"></a>
+                    <a href="https://www.instagram.com/gbmaiaa._/" target="_blank" ><img src="assets/icons/instagram.svg" alt="Icone do instagram"></a>
                 </div>
             </div>
         </section>
 
+        <!--Segunda Seção, todos os repositórios-->
         <section class="row my-3">
             <h2 id="repositorios" class="col-12 border-bottom border-dark mb-3 p-2  d-flex justify-content-center justify-content-sm-start">Repositórios(4)</h2>
 
@@ -82,9 +89,9 @@
                 <div class="border border-dark p-2 fixed-card">
                     <p class="bg-secondary p-1"><a href="repo.html">PUC</a></p>
                     <p>Repositórios que contém as atividades do primeiro semestre do curso de Sistemas de Informação PUC </p>
-                    <img src="icons/favoritos.svg" alt="Icone de Favoritos">
+                    <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos">
                     <p class="d-inline pr-3">(3)</p>
-                    <img src="icons/pessooas.svg" alt="Icone de Pessoas">
+                    <img src="assets/icons/pessooas.svg" alt="Icone de Pessoas">
                     <p class="d-inline ">(7)</p>
                 </div>
             </div>
@@ -93,9 +100,9 @@
                 <div class="border border-dark p-2 fixed-card">
                     <p class="bg-secondary p-1"><a href="repo.html">Desenvolvimento de Aplicativos Web</a></p>
                     <p>Repositório da disicplina Desenvolvimento de Aplicações Web, do terceiro ano do curso de Desenvolvimento de Sistemas </p>
-                    <img src="icons/favoritos.svg" alt="Icone de Favoritos">
+                    <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos">
                     <p class="d-inline pr-3">(3)</p>
-                    <img src="icons/pessooas.svg" alt="Icone de Pessoas">
+                    <img src="assets/icons/pessooas.svg" alt="Icone de Pessoas">
                     <p class="d-inline ">(7)</p>
                 </div>
             </div>
@@ -104,9 +111,9 @@
                 <div class="border border-dark p-2 fixed-card">
                     <p class="bg-secondary p-1"><a href="repo.html">Show do Bilhão</a></p>
                     <p>Respositório que contém o trabalho do Show do Bilhão desenvolvido no terceiro ano do curso de Desenvolvimento de Sistemas</p>
-                    <img src="icons/favoritos.svg" alt="Icone de Favoritos">
+                    <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos">
                     <p class="d-inline pr-3">(1)</p>
-                    <img src="icons/pessooas.svg" alt="Icone de Pessoas">
+                    <img src="assets/icons/pessooas.svg" alt="Icone de Pessoas">
                     <p class="d-inline ">(0)</p>
                 </div>
             </div>
@@ -115,14 +122,15 @@
                 <div class="border border-dark p-2 fixed-card">
                     <p class="bg-secondary p-1"><a href="repo.html">Coltec</a></p>
                     <p>Contém as atividades desenvolvidadas no coltec, separadas pelas matérias e as linguagens dos três anos</p>
-                    <img src="icons/favoritos.svg" alt="Icone de Favoritos">
+                    <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos">
                     <p class="d-inline pr-3">(0)</p>
-                    <img src="icons/pessooas.svg" alt="Icone de Pessoas">
+                    <img src="assets/icons/pessooas.svg" alt="Icone de Pessoas">
                     <p class="d-inline ">(0)</p>
                 </div>
             </div>
         </section>           
 
+        <!--Terceira Seção, conteúdos sugeridos-->
         <section class="row my-3">
             <h2 id="conteudo_sugerido" class="col-12 border-bottom border-dark mb-3 p-2  d-flex justify-content-center justify-content-sm-start">Conteúdo Sugerido</h2>
 
@@ -134,20 +142,21 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="https://images.pexels.com/photos/7524996/pexels-photo-7524996.jpeg?auto=compress&cs=tinysrgb&w=900&h=350&dpr=1" class="d-block w-100 fixed-carrossel" alt="Imagem 1">
+                    <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/Logo.png?fit=1920%2C990&ssl=1" class="d-block w-100 fixed-carrossel" alt="Imagem 1">
                   </div>
                   <div class="carousel-item">
-                    <img src="https://images.pexels.com/photos/3379934/pexels-photo-3379934.jpeg?auto=compress&cs=tinysrgb&w=900&h=350&dpr=1" class="d-block w-100 fixed-carrossel" alt="Imagem 2">
+                    <img src="https://arquivo.devmedia.com.br/cursos/imagem/curso_407.jpg" class="d-block w-100 fixed-carrossel" alt="Imagem 2">
                   </div>
                   <div class="carousel-item">
-                    <img src="https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg?auto=compress&cs=tinysrgb&w=900&h=350&dpr=1" class="d-block w-100 fixed-carrossel" alt="Imagem 3">
+                    <img src="https://learn.microsoft.com/pt-br/shows/csharp-for-beginners/media/beg-dotnet_csharp-106023-banner.png" class="d-block w-100 fixed-carrossel" alt="Imagem 3">
                   </div>
                   <div class="carousel-item">
-                    <img src="https://images.pexels.com/photos/3800848/pexels-photo-3800848.jpeg?auto=compress&cs=tinysrgb&w=900&h=350&dpr=1" class="d-block w-100 fixed-carrossel" alt="Imagem 4">
+                    <img src="https://blobflyx.blob.core.windows.net/tecnosys/desenvolvimento-cloud-web.jpg" class="d-block w-100 fixed-carrossel" alt="Imagem 4">
                   </div>
                   <div class="carousel-item">
-                    <img src="https://images.pexels.com/photos/6001246/pexels-photo-6001246.jpeg?auto=compress&cs=tinysrgb&w=900&h=350&dpr=1" class="d-block w-100 fixed-carrossel" alt="Imagem 5">
+                    <img src="https://blobflyx.blob.core.windows.net/tecnosys/desenvolvimento-cloud-web.jpghttps://cf-images.us-east-1.prod.boltdns.net/v1/static/62009828001/b93d7536-9265-41aa-9ca9-7fb10db6f558/10625a6f-54af-4edf-aa41-970bf6313c56/1280x720/match/image.jpg" class="d-block w-100 fixed-carrossel" alt="Imagem 5">
                   </div>
+                  
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -158,9 +167,9 @@
                   <span class="visually-hidden">Next</span>
                 </button>
               </div>
-           
         </section>
 
+        <!--Quarta Seção, Colegas-->
         <section class="row my-3 d-flex justify-content-center">
             <h2 id="colegas" class="col-12 border-bottom border-dark mb-3 p-2  d-flex justify-content-center justify-content-sm-start">Colegas de Trabalho</h2>
             
@@ -192,15 +201,11 @@
         </section>
     </main>
 
+    <!--Rodapé-->
     <footer class="container bg-light">
-        <div class="text-center">
+        <div class="text-center py-3">
             <p>&copy; Copyright | 2024, Gabrielle Maia, Código de Pessoa: 1524475</p>
         </div>
     </footer>
 </body>
 </html>
-
-<!--
-    Alteações:
-    -trocar imagens
-    imagens , links das redes sociais, seções umas debaixo das outras no nav sm, rodapé, texto do perfil, tirar o hover do h1-->

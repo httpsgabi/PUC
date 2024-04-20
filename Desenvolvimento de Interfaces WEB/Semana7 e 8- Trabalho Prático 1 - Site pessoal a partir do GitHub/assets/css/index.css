@@ -1,13 +1,22 @@
+/*Definições gerais*/
 body, main, header, div, h1, h2, h3, p, a{
     margin: 0;
     padding: 0;
 }
-h1{
-    font-size: 3vw; 
-}
 
+/*Cabeçalho*/
 nav{
     background-color: #dee2e6;
+}
+
+ul.navbar-nav{
+    font-size: 1.3vw;
+    text-transform: uppercase;
+}
+
+/*Títulos*/
+h1{
+    font-size: 3vw; 
 }
 
 h2{
@@ -17,26 +26,14 @@ h2{
 h3{
     font-size: 15pt;
 }
-footer{
-    font-size: 0.8vw;
-}
 
-a{
-    text-decoration: none;
-    color: black;
-    
-}
-
-a:hover{
+/*Links*/
+a, a:hover{
     text-decoration: none;
     color: black;
 }
 
-ul.navbar-nav{
-    font-size: 2vw;
-    text-transform: uppercase;
-}
-
+/*Tamanhos fixos dos card e do carrossel*/
 .fixed-card {
     width: 250px; 
     height: 250px;
@@ -45,4 +42,10 @@ ul.navbar-nav{
 .fixed-carrossel{
     width: 900px; 
     height: 350px;
+}
+
+/*Rodapé*/
+
+footer{
+    font-size: 0.8vw;
 }
