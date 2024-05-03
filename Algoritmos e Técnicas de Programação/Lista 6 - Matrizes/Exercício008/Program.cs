@@ -123,7 +123,7 @@ namespace Exercício008
                     //Verifica se a diagonal princiapal tem 3 'O'
                     for (linha = 0, coluna = 0; linha < jogoDaVelha.GetLength(0); linha++, coluna++)
                     {
-                        if (jogoDaVelha[linha, coluna] == 'x')
+                        if (jogoDaVelha[linha, coluna] == 'o')
                         {
                             contadorCaracter[4]++;
                         }
@@ -134,7 +134,7 @@ namespace Exercício008
                     //Verifica se a diagonal secundária tem 3 'O'
                     for (linha = 0, coluna = jogoDaVelha.GetLength(1) - 1; linha < jogoDaVelha.GetLength(0); linha++, coluna--)
                     {
-                        if (jogoDaVelha[linha, coluna] == 'x')
+                        if (jogoDaVelha[linha, coluna] == 'o')
                         {
                             contadorCaracter[5]++;
                         }
@@ -148,7 +148,7 @@ namespace Exercício008
                     {
                         for (coluna = 0; coluna < jogoDaVelha.GetLength(1); coluna++)
                         {
-                            if (jogoDaVelha[linha, coluna] == 'x')
+                            if (jogoDaVelha[linha, coluna] == 'o')
                             {
                                 contadorCaracter[6]++;
                             }
@@ -164,7 +164,7 @@ namespace Exercício008
                     {
                         for (linha = 0; linha < jogoDaVelha.GetLength(0); linha++)
                         {
-                            if (jogoDaVelha[linha, coluna] == 'x')
+                            if (jogoDaVelha[linha, coluna] == 'o')
                             {
                                 contadorCaracter[7]++;
                             }
