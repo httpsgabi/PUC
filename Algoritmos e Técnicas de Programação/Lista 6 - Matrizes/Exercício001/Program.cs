@@ -21,6 +21,8 @@ namespace Exercício001
 
             int[,] matriz = new int[numero, numero];
 
+            Console.WriteLine($"A matriz gerada é: \n");
+
             for (int linha = 0; linha < matriz.GetLength(0); linha++)
             {
                 for (int coluna = 0; coluna < matriz.GetLength(1); coluna++)
@@ -43,7 +45,7 @@ namespace Exercício001
                     somarLinhas += matriz[linha, coluna];
                 }
 
-                Console.WriteLine($"A soma da {linha} linha é: {somarLinhas}");
+                Console.WriteLine($"A soma da linha {linha} é: {somarLinhas}");
 
                 somarLinhas = 0;
             }
@@ -56,7 +58,7 @@ namespace Exercício001
                     somarColunas += matriz[linha, col];
                 }
 
-                Console.WriteLine($"A soma da {col} coluna é: {somarColunas}");
+                Console.WriteLine($"A soma da coluna {col} é: {somarColunas}");
 
                 somarColunas = 0;
             }

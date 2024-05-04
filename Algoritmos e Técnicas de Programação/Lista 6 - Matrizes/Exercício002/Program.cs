@@ -27,7 +27,7 @@ namespace Exercício002
             {
                 for (coluna = 0; coluna < matrizA.GetLength(1); coluna++)
                 {
-                    numeroAleatorio = random.Next(0, 10);
+                    numeroAleatorio = random.Next(0, 2);
                     matrizA[linha, coluna] = numeroAleatorio;
                 }
             }
@@ -36,8 +36,8 @@ namespace Exercício002
             {
                 for (coluna = 0; coluna < matrizB.GetLength(1); coluna++)
                 {
-                    numeroAleatorio = random.Next(0, 10);
-                    matrizA[linha, coluna] = numeroAleatorio;
+                    numeroAleatorio = random.Next(0, 2);
+                    matrizB[linha, coluna] = numeroAleatorio;
                 }
             }
 
@@ -45,10 +45,37 @@ namespace Exercício002
             {
                 for (coluna = 0; coluna < matrizB.GetLength(1); coluna++)
                 {
-                    matrizesIguais = matrizA[coluna, linha] != matrizB[coluna, linha] ? false : true;
+                    if (matrizA[linha, coluna] != matrizB[linha, coluna])
+                    {
+                        matrizesIguais = false;
+                        break;
+                    }
                 }
+                if (!matrizesIguais)
+                    break;
             }
 
+            Console.WriteLine("--------------------------------------------------\nMatriz A: ");
+            for(linha = 0; linha < matrizA.GetLength(0); linha++)
+            {
+                for (coluna = 0; coluna < matrizA.GetLength(1); coluna++)
+                {
+                    Console.Write($"\t{matrizA[linha, coluna]}");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("--------------------------------------------------\nMatriz B: ");
+            for (linha = 0; linha < matrizB.GetLength(0); linha++)
+            {
+                for (coluna = 0; coluna < matrizB.GetLength(1); coluna++)
+                {
+                    Console.Write($"\t{matrizB[linha, coluna]}");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("--------------------------------------------------");
             Console.WriteLine(matrizesIguais == false ? "As matrizes são diferentes" : "As matrizes são iguais");
             Console.ReadLine();
         }

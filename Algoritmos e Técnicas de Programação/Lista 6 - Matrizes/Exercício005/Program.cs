@@ -14,7 +14,7 @@ namespace Exercício005
             int linha, coluna;
             double somaDiagonal = 0, somaDiagonalSec = 0, somatorioLinhas = 0, somatorioColunas = 0;
             bool LinhasIguais = true, colunasIguais = true; 
-            int[,] quadradoPerfeito = new int[3, 3];
+            int[,] quadradoPerfeito = new int[500, 500];
 
             Random random = new Random();
 

@@ -12,7 +12,7 @@ namespace Exercício007
         {
             int linha, coluna, matriculaAlunoMaiorNota = 0, notaFinal = 0;
             double maiorNota = 0, mediaNotasFinais = 0 ; 
-            int[,] matriz = new int[2, 4];
+            int[,] matriz = new int[10, 4];
 
             //Random rand = new Random();
 

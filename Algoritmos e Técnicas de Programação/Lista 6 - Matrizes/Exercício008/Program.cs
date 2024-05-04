@@ -11,7 +11,7 @@ namespace Exercício008
         static void Main(string[] args)
         {
             bool alguemGanhou = false;
-            int linha, coluna, linhaJogador = 0, colunaJogador = 0, rodadas = 0;
+            int linha, coluna, linhaJogador = 0, colunaJogador = 0, rodadas = 1;
             char vencedor = '\0'; 
             int[] contadorCaracter = new int[8];
             char[,] jogoDaVelha = new char[3, 3];
@@ -26,7 +26,7 @@ namespace Exercício008
 
             Console.WriteLine($"Bem vindo ao jogo da velha");
 
-            while (alguemGanhou == false && rodadas < 9)
+            while (alguemGanhou == false && rodadas <= 9)
             {
                 Console.Write($"Linha do X: ");
                 linhaJogador = int.Parse(Console.ReadLine());
@@ -181,7 +181,8 @@ namespace Exercício008
                 rodadas++;
             }
 
-            Console.WriteLine(rodadas == 9 ? "O jogo empatou" : $"O vencedor foi o jogador: {vencedor}");
+            Console.WriteLine($"\n------------------------------------------");
+            Console.WriteLine(alguemGanhou == false ? "Resultado: O jogo empatou" : $"Resultado: O vencedor foi o jogador: {vencedor}");
 
             Console.ReadLine();
         }

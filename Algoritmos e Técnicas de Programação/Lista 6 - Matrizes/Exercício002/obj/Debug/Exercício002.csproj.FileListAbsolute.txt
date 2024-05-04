@@ -5,3 +5,10 @@ C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programa
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6\Exercício002\obj\Debug\Exercício002.csproj.CoreCompileInputs.cache
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6\Exercício002\obj\Debug\Exercício002.exe
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6\Exercício002\obj\Debug\Exercício002.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\bin\Debug\Exercício002.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\bin\Debug\Exercício002.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\bin\Debug\Exercício002.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\obj\Debug\Exercício002.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\obj\Debug\Exercício002.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\obj\Debug\Exercício002.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista 6 - Matrizes\Exercício002\obj\Debug\Exercício002.pdb

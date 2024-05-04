@@ -42,7 +42,7 @@ namespace Exercício004
 
                 if (coluna == colunaCompImpar)
                 {
-                    Console.WriteLine($"\nA soma da coluna {coluna} é {somarColunasImpares}");
+                    Console.WriteLine($"\nA soma da coluna {coluna} é: {somarColunasImpares}");
 
                     colunaCompImpar += 2;
                 }
@@ -50,7 +50,7 @@ namespace Exercício004
                 if(coluna % 2 == 0 && coluna > 0)
                 {
                     mediaColunasPares = somarColunasPares / matriz.GetLength(0);
-                    Console.WriteLine($"\nA media da coluna {coluna} é {mediaColunasPares}");
+                    Console.WriteLine($"\nA media da coluna {coluna} é: {Math.Round(mediaColunasPares, 2)}");
                 }
                
                 somarColunasImpares = 0;
