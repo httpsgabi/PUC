@@ -1,0 +1,7 @@
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\bin\Debug\Exercício006.exe.config
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\bin\Debug\Exercício006.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\bin\Debug\Exercício006.pdb
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\obj\Debug\Exercício006.csproj.AssemblyReference.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\obj\Debug\Exercício006.csproj.CoreCompileInputs.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\obj\Debug\Exercício006.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Técnicas de Programação\Lista7 - Modularização\Exercício006\obj\Debug\Exercício006.pdb
