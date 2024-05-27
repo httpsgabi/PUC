@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{024E373B-6373-4277-B4FE-71E6B86BAA40}|Exerc\u00EDcio010\\Exerc\u00EDcio010.csproj|solutionrelative:exerc\u00EDcio010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA2789BA-5F09-457B-8E9D-11D920BCAD4C}|Exerc\u00EDcio009\\Exerc\u00EDcio009.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista7 - modulariza\u00E7\u00E3o\\exerc\u00EDcio009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA2789BA-5F09-457B-8E9D-11D920BCAD4C}|Exerc\u00EDcio009\\Exerc\u00EDcio009.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista7 - Modulariza\u00E7\u00E3o\\exerc\u00EDcio009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA2789BA-5F09-457B-8E9D-11D920BCAD4C}|Exerc\u00EDcio009\\Exerc\u00EDcio009.csproj|solutionrelative:exerc\u00EDcio009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AD991EE-3B4F-41DF-9119-5F3893E58A35}|Exerc\u00EDcio011\\Exerc\u00EDcio011.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista7 - modulariza\u00E7\u00E3o\\exerc\u00EDcio011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AD991EE-3B4F-41DF-9119-5F3893E58A35}|Exerc\u00EDcio011\\Exerc\u00EDcio011.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista7 - Modulariza\u00E7\u00E3o\\exerc\u00EDcio011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AD991EE-3B4F-41DF-9119-5F3893E58A35}|Exerc\u00EDcio011\\Exerc\u00EDcio011.csproj|solutionrelative:exerc\u00EDcio011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Exerc\u00EDcio009\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:30:46.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T01:30:46.713Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Exerc\u00EDcio010\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista7 - Modulariza\u00E7\u00E3o\\Exerc\u00EDcio010\\Program.cs",
               "RelativeToolTip": "Exerc\u00EDcio010\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T01:30:26.035Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Exerc\u00EDcio011\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:08:12.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T01:08:12.89Z"
             }
           ]
         }
