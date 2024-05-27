@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculandora</title>
+</head>
+
+<body>
+
+<h1>Calculandora</h1>
+
+<script>
+
+    var opcao, num1, num2, resultado;
+
+    alert(`Digite a operação que deseja realizar: \n1-soma\n2-subtração\n3-multiplicação\n4-divisão`);
+    opcao = parseInt(prompt("Opção: "));
+
+    num1 = parseFloat(prompt("Agora digite o numero 1: "));
+    num2 = parseFloat(prompt("E digite o numero 2: "));
+
+    if(opcao == 1){
+        resultado = num1 + num2;
+        alert(`${resultado}`);
+    }
+    else if(opcao == 2){
+        resultado = num1 - num2;
+        alert(`${resultado}`);
+    }
+    else if(opcao == 3){
+        resultado = num1 * num2;
+        alert(`${resultado}`);
+    }
+    else if(opcao == 4){
+        resultado = num1 / num2;
+        alert(`${resultado}`);
+    }
+
+</script>
+
+</body>
+</html> 
