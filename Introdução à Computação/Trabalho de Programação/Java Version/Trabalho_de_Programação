@@ -1,0 +1,70 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int opcaoCliente = 0, quantProdutos, itemEscolhido = 0;
+        float valorCompra = 0;
+
+        System.out.println("Seja bem vindo vendedor, iremos cadastrar seus produtos, digite quantos quer registrar: ");
+        quantProdutos = scanner.nextInt();
+        scanner.nextLine(); // Consome a linha restante
+
+        String[] nomesProdutos = new String[quantProdutos];
+        float[] precoProduto = new float[quantProdutos];
+        int[] idProduto = new int[quantProdutos];
+
+        for (int i = 0; i < quantProdutos; i++) {
+            System.out.println("---------------------------------------------------------");
+            System.out.print("\nNome do produto nº " + (i + 1) + ": ");
+            nomesProdutos[i] = scanner.nextLine();
+
+            System.out.print("\nPreço do produto nº" + (i + 1) + ": ");
+            precoProduto[i] = scanner.nextFloat();
+            scanner.nextLine(); // Consome a linha restante
+
+            idProduto[i] = i;
+        }
+
+        System.out.println("---------------------------------------------------------");
+        System.out.print("Seja bem vindo cliente o que deseja fazer? ");
+        System.out.print("\n1 - Listar itens do mercado \n2 - Sair ou finalizar compra \nOpção: ");
+        opcaoCliente = scanner.nextInt();
+
+        do {
+            System.out.println("---------------------------------------------------------");
+            if (opcaoCliente == 1) {
+                for (int i = 0; i < quantProdutos; i++) {
+                    System.out.println(idProduto[i] + "\t|R$ " + precoProduto[i] + "\t | " + nomesProdutos[i]);
+                }
+
+                System.out.println("---------------------------------------------------------");
+                System.out.println("Digite o numero do item que deseja adicionar na sua sacola, e digite " + quantProdutos + " caso não queira comprar mais: ");
+                itemEscolhido = scanner.nextInt();
+
+                do {
+                    if (itemEscolhido < 0 || itemEscolhido >= quantProdutos) {
+                        System.out.println("Item invalido, não está cadastrado. Digite um novo item: ");
+                    } else {
+                        valorCompra += precoProduto[itemEscolhido];
+                    }
+
+                    System.out.print("\nPróximo produto: ");
+                    itemEscolhido = scanner.nextInt();
+
+                } while (itemEscolhido != quantProdutos);
+            } else if (opcaoCliente != 2) {
+                System.out.println("Digite uma opção válida! ");
+                opcaoCliente = scanner.nextInt();
+            }
+
+            System.out.println("\n1 - Listar itens do mercado \n2 - Sair ou finalizar compra: ");
+            opcaoCliente = scanner.nextInt();
+
+        } while (opcaoCliente != 2);
+
+        System.out.println("O valor da compra é: " + valorCompra + ", obrigada e volte sempre! ");
+
+        scanner.close();
+    }
+}
