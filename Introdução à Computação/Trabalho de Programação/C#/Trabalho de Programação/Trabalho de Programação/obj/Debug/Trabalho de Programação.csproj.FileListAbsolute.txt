@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\bin\Debug\Trabalho de Programação.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\bin\Debug\Trabalho de Programação.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\bin\Debug\Trabalho de Programação.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\obj\Debug\Trabalho de Programação.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\obj\Debug\Trabalho de Programação.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\obj\Debug\Trabalho de Programação.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Introdução à Computação\Trabalho de Programação\C#\Trabalho de Programação\Trabalho de Programação\obj\Debug\Trabalho de Programação.pdb
