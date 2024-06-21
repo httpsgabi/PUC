@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-nr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <!--Scripts-->
+    <script src="../index.js" defer></script>
+    <script src="../public/assets/scripts/app.js" defer></script>
+
+    <!--Referências Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!--Folhas de estilo-->
+    <link rel="stylesheet" href="assets/css/index.css">
+    
+    <!--Título e ícone da página-->
+    <title>Descrição do Repositório</title>
+    <link rel="icon" href="assets/icons/github.svg" sizes="32x32" type="image/png">
+</head>
+<body>
+  <header class="container p-0">
+    <nav class="container navbar navbar-expand-lg p-0 py-2 navbar-light">
+        <div class="container-fluid p-0">
+            <a href="index.html"><div id="name_user"></div></a>
+
+            <button class="navbar-toggler border-secondary mr-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item mx-1">
+                        <a class="nav-link" aria-current="page" href="#">Link 1</a>
+                    </li>
+                    <li class="nav-item mx-1">
+                        <a class="nav-link" href="#">Link 2</a>
+                    </li>
+                    <li class="nav-item mx-1">
+                        <a class="nav-link" href="#">Link 3</a>
+                    </li>
+                    <li class="nav-item mx-1">
+                        <a class="nav-link" href="#">Link 4</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<main class="container p-0"> 
+    <section class="row m-0">
+        <h2 class="col-12 border-bottom border-dark my-3 p-0 py-2 " id="name_repositorio"></h2>
+
+        <h3 class="col-12 text-info p-0 mb-2">Descrição</h3>
+        <div id="descricao_repositorio" class="col-12 p-0"></div>
+
+        <h3 class="col-9 text-info p-0 mb-2">Data de Criação</h3>
+        <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos" class="offset-1">
+        <div id="numero_views" class="d-inline"></div>
+        <div id="data_criacao_repositorio" class="col-9 p-0"></div>
+        <img src="assets/icons/pessoas.svg" alt="Icone de Pessoas" class="offset-1">
+        <div id="numero_favoritos" class="d-inline"></div>
+
+        <h3 class="col-12 text-info p-0 mb-2">Linguagem</h3>
+        <div id="linguagens_repositorio"></div>
+
+        <h3 class="col-12 text-info p-0 mb-2">Link de Acesso</h3>
+        <div id="link_repositorio"></div>
+
+        <h3 class="col-12 text-info p-0 mb-2">Tópicos</h3>
+        <ul class="list-unstyled d-inline" id="topicos_repositorio"></ul>
+    </section>  
+</main>
+
+<footer class="container bg-light">
+    <div id="name_user_footer" class="text-center py-3">      
+    </div>
+</footer>
+</body>
+</html>

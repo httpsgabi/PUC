@@ -1,0 +1,47 @@
+/*Definições gerais*/
+body, main, header, div, h1, h2, h3, p, a{
+    margin: 0;
+    padding: 0;
+}
+
+/*Cabeçalho*/
+nav{
+    background-color: #dee2e6;
+}
+
+ul.navbar-nav{
+    font-size: 13pt;
+    text-transform: uppercase;
+}
+
+/*Títulos*/
+h1{
+    font-size: 30pt; 
+}
+
+h2{
+    font-size: 20pt;    
+}
+
+h3{
+    font-size: 15pt;
+}
+
+/*Links*/
+a, a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+/*Tamanho fixo e do carrossel*/
+
+.fixed-carrossel{
+    width: 900px; 
+    height: 350px;
+}
+
+/*Rodapé*/
+
+footer{
+    font-size: 12pt;
+}

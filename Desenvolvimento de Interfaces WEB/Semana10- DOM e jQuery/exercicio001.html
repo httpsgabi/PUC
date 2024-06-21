@@ -4,18 +4,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculandora</title>
+    <title>Conversão Monetária</title>
 
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 
 <body>
 
-<h1>Calculandora</h1>
+    <h1>Conversão Monetária</h1>
+    <h2></h2>
 
-<script>
+    <label for="">Insira o valor que deseja converter, e a moeda para qual deseja passar</label>
+    <input type="number" name="valor" id="valor">
+    
+    <select name="" id="opcao_moeda">
+        <option value="r">Dolar</option>
+        <option value="">Euro</option>
+        <option value="">Peso Argentino</option>
+        <option value="">Yene</option>
+        <option value="r_canadense">Dolar Canadense</option>
+    </select>
+    
+    <input type="button" id="enviar" value="Enviar">
 
-</script>
+    <script>
+        var info_moedas = [0.19, 0.17, 168.25, 29.28, 0.26];
+
+        $("#enviar").click(() =>  {
+
+            var valor_conversao = parseInt($("#valor").val());
+            var valor_convertido;
+
+            if (isNaN(valor_conversao) || valor_conversao === ""){
+                alert(`Valor campo em branco! `);
+            }
+            else{
+                var opcao_selecionada = $('#opcao_moeda').val();
+                var indice_select = $(`#opcao_moeda`).prop('selectedIndex');
+
+                for (let i = 0; i < info_moedas.length; i++) {
+                    if (i == indice_select){
+                        valor_convertido = info_moedas[i] * valor_conversao;
+                    }
+                }
+
+                alert(`O valor da conversão é: ${valor_convertido}, e a cotação é ${info_moedas[indice_select]}`);
+            }
+
+        })
+    </script>
 
 </body>
 </html> 
