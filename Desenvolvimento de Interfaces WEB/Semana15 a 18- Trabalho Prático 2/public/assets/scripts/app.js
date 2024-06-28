@@ -32,6 +32,11 @@ function CarregaTela() {
     
     }
 
+    // Função que carrega os dados referentes às informações da parte de perfil na tela de repositórios
+    function CarregaDadosPerfilRepo(dadosGerais, dadosRepo){
+        
+    }
+
     // Função que carrega todos os dados referentes às informações gerais dos repositórios
     function CarregaDadosRepo(dadosRepo) { 
         var quantRepositorios = document.getElementById('quant_repositorios');
@@ -68,19 +73,23 @@ function CarregaTela() {
 
     // Função que carrega todos os dados referentes às informações gerais dos seguidores
     function CarregaDadosFollowers(dadosFollower) {
+
     var colegasPerfil = document.getElementById('followers');
     var strTextFollowers = '';
 
-    for (let i = 0; i < 6; i++) {
-        strTextFollowers += `<div class="d-inline-block col-2 text-info">
+    for (let i = 0; i < dadosFollower.length; i++) {
+        strTextFollowers += `<div class="d-inline-block col-7 col-md-2 col-lg-2 text-info">
                             <a href="${dadosFollower[i].html_url}" target="_blank"><img src="${dadosFollower[i].avatar_url}" alt="Foto de um colega de trabalho" class="img-fluid flex-wrapmax-width-300 p-1 border "></a>
-                            <p class="text-center">${dadosFollower[i].login}</p>
+                            <p class="text-center">${dadosFollower[i].name}</p>
                         </div>`;
     }
 
     colegasPerfil.innerHTML = strTextFollowers;
+    
+    
     }
 
+    // Função que carrega os dados do repositório escolhido na tela repo.html
     function CarregaTelaRepos(dadosRepo){
 
         function extrairIdDaUrl(url) {
@@ -101,9 +110,27 @@ function CarregaTela() {
                 var link_acesso_repo = document.getElementById('link_repositorio');
                 var topicos_repo = document.getElementById('topicos_repositorio');
                 var strTextTopics = '';
-                var numeroViews = document.getElementById('numero_views');
-                var numeroFavoritos = document.getElementById('numero_favoritos');
+                var perfilRepo = document.getElementById('perfil_repo');
 
+                perfilRepo.innerHTML = `
+                <div>
+                    <h3 class="text-info mb-3">Proprietário: ${dadosGerais.name}</h3>
+
+                    <div class="d-block">
+                        <img src="assets/icons/favoritos.svg" alt="Icone de Favoritos">
+                        <strong><p class="d-inline">Estrelas:</strong> ${dadosRepo[i].stargazers_counts}</p>
+                    </div>
+
+                    <div class="d-block">
+                        <img src="assets/icons/pessoas.svg" alt="Icone de Pessoas">
+                        <strong><p class="d-inline">Observadores:</strong> ${dadosRepo[i].watchers}</p>
+                    </div>
+
+                <strong><p>Fork:</strong> ${dadosRepo[i].forks}</p>
+
+                <strong><p>Tipo de Licença:</strong> ${dadosRepo[i].license}</p>
+                `;
+            
                 nome_repo.innerHTML = `<h2>Repositório: ${dadosRepo[i].name}</h2>`;
                 descricao_tela_repo.innerHTML = `<p>${dadosRepo[i].description}</p>`;
                 data_criacao_repo.innerHTML = `<p>${dadosRepo[i].created_at}</p>`;
@@ -121,25 +148,60 @@ function CarregaTela() {
         }
         
     }
+    
+    // Função que carrega os conteúdos sugeridos na tela index(principal)
+    function CarregaDadosCarrossel(dadosCarrossel){
+
+        console.log(dadosCarrossel)
+
+        var fotosCarrossel = document.getElementById('fotos_carrossel');
+        var carrosselIndicators = document.getElementById('carrossel_indicators');
+        var strTextFotos = '';
+        var strTextIndicators = '';
+
+        for(let i = 0; i < dadosCarrossel.length; i++){
+            if(i == 0){
+                 strTextIndicators += `<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="${i}" class="active" aria-current="true" aria-label="Slide ${i+1}"></button>`; 
+            }else{
+                 strTextIndicators += `<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="${i}" aria-label="Slide ${i+1}"></button>`; 
+            }
+            
+        }
+        carrosselIndicators.innerHTML = strTextIndicators;
+
+       
+        
+        for(let i = 0; i < dadosCarrossel.length; i++){
+            if(i == 0){
+            strTextFotos += `<div class="carousel-item active">
+                <a href="${dadosCarrossel[i].url}" target="_blank"><img src="${dadosCarrossel[i].imagem}" class="d-block w-100" alt="${dadosCarrossel[i].alt}"></a>
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>${dadosCarrossel[i].title}</h5>
+                  <p>${dadosCarrossel[i].description}</p>
+                </div>
+              </div>`;  
+            }else{
+                strTextFotos += `<div class="carousel-item">
+                    <a href="${dadosCarrossel[i].url}" target="_blank"><img src="${dadosCarrossel[i].imagem}" class="d-block w-100" alt="${dadosCarrossel[i].alt}"></a>
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>${dadosCarrossel[i].title}</h5>
+                      <p>${dadosCarrossel[i].description}</p>
+                    </div>
+                  </div>`; 
+            }
+        }
+        fotosCarrossel.innerHTML = strTextFotos;
+         console.log(strTextFotos)
+    }
 
     CarregaDadosAPI_Gerais(CarregaDadosGerais);
     CarregaDadosAPI_Gerais(CarregaDadosPerfil);
+    CarregaDadosAPI_Gerais(CarregaDadosPerfilRepo);
     CarregaDadosAPI_Repo(CarregaTelaRepos);
     CarregaDadosAPI_Repo(CarregaDadosRepo);
     CarregaDadosAPI_Followers(CarregaDadosFollowers);
+    CarregaDadosAPI_Carrossel(CarregaDadosCarrossel);
 }
     
 CarregaTela();
-
-//obs: como fazer o arquivo db.json
-//obs: preciso colocar os icons num json?
-
-//obs: precisa colocar foto na tela de repositórios?
-
-//obs: favoritos na tela repositórios n aparece
-
-//obs: footer n funciona na tela repositorios (pode ser ordem da chamada das funções ou a falta de chamar a função CarregaDadosGerais na tela repositórios)
-
-//obs: colegas e conteúdos sugeridos não ficam responsivos, diminuem demais
-
-//obs: perguntar sobre a parte: "Estrutura de dados", que está no enunciado 
+ 

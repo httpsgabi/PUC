@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7B5CE8-9665-4104-8149-ABAF9726ACA5}|Exerc\u00EDcio006\\Exerc\u00EDcio006.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 10 - arquivos\\exerc\u00EDcio006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7B5CE8-9665-4104-8149-ABAF9726ACA5}|Exerc\u00EDcio006\\Exerc\u00EDcio006.csproj|solutionrelative:exerc\u00EDcio006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02BE066-7591-4AA7-8EB2-6EE2AD066252}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio003\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02BE066-7591-4AA7-8EB2-6EE2AD066252}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|solutionrelative:Exerc\u00EDcio003\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7892E0A6-1E33-4CDA-8EB6-952F1A528C54}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 10 - arquivos\\exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7892E0A6-1E33-4CDA-8EB6-952F1A528C54}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|solutionrelative:exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9304CCC-9759-4358-9C73-0569A745E9E2}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 10 - arquivos\\exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9304CCC-9759-4358-9C73-0569A745E9E2}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B97B336-5A4B-46A1-86FD-BC8E9722F29C}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio001\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B97B336-5A4B-46A1-86FD-BC8E9722F29C}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|solutionrelative:Exerc\u00EDcio001\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A0ABC9-4075-4B9C-ADD5-48EE598F3099}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio002\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A0ABC9-4075-4B9C-ADD5-48EE598F3099}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|solutionrelative:Exerc\u00EDcio002\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio006\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio006\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio006\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio006\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:45:30.608Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:41:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio004\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio004\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio004\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio004\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:18:14.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio003\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio003\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio003\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio003\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:18:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio001\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio001\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio001\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio001\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:18:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio002\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio002\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\Exerc\u00EDcio002\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio002\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwv0MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:18:14.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

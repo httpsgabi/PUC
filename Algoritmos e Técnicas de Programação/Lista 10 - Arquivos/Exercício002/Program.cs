@@ -9,7 +9,7 @@ namespace Exercício002
         static void ImprimeInfoPesos(int[] pesos)
         {
             int maiorPeso = 0, menorPeso = 1000;
-            float mediaPesos = 0;
+            double mediaPesos = 0;
 
             for (int i = 0; i < pesos.Length; i++)
             {
@@ -24,7 +24,8 @@ namespace Exercício002
                 mediaPesos += pesos[i];
             }
 
-            Console.WriteLine($"O maior peso é: {maiorPeso}, e o menor peso é {menorPeso}");
+            mediaPesos = Math.Round(mediaPesos/9, 2);
+            Console.WriteLine($"O maior peso é: {maiorPeso}, e o menor peso é {menorPeso} e a média de pesos é: {mediaPesos}");
         }
         static void Main(string[] args)
         {

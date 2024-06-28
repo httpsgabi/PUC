@@ -1,0 +1,11 @@
+﻿O animal Gato domestico, possui peso 7, e está presente no intervalo de 5 até 15
+O animal Gato-leopardo-asiatico, possui peso 7, e está presente no intervalo de 5 até 15
+O animal Jaguatirica, possui peso 20, e está presente no intervalo de 20 até 50
+O animal Jaguatirica, possui peso 20, e está presente no intervalo de 20 até 100
+O animal Leao, possui peso 190, e está presente no intervalo de 50 até 200
+O animal Leao, possui peso 190, e está presente no intervalo de 90 até 300
+O animal Leopardo, possui peso 90, e está presente no intervalo de 50 até 200
+O animal Leopardo, possui peso 90, e está presente no intervalo de 20 até 100
+O animal Leopardo, possui peso 90, e está presente no intervalo de 90 até 300
+O animal Lince-iberico, possui peso 27, e está presente no intervalo de 20 até 50
+O animal Lince-iberico, possui peso 27, e está presente no intervalo de 20 até 100

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\ATP-TrabalhoPratico-2024\\Lista 9 - POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E5D917-6E6F-49AA-8AE0-2EEC24C1BEA1}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\atp-trabalhopratico-2024\\lista 9 - poo\\exerc\u00EDcio005\\classpadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E5D917-6E6F-49AA-8AE0-2EEC24C1BEA1}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\classpadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E5D917-6E6F-49AA-8AE0-2EEC24C1BEA1}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\atp-trabalhopratico-2024\\lista 9 - poo\\exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E5D917-6E6F-49AA-8AE0-2EEC24C1BEA1}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\ATP-TrabalhoPratico-2024\\Lista 9 - POO\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\ATP-TrabalhoPratico-2024\\Lista 9 - POO\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:58:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassPadrao.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\ATP-TrabalhoPratico-2024\\Lista 9 - POO\\Exerc\u00EDcio005\\ClassPadrao.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\ClassPadrao.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\ATP-TrabalhoPratico-2024\\Lista 9 - POO\\Exerc\u00EDcio005\\ClassPadrao.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\ClassPadrao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:58:43.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
