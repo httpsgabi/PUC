@@ -1,0 +1,7 @@
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\bin\Debug\Exercício001.exe.config
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\bin\Debug\Exercício001.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\bin\Debug\Exercício001.pdb
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\obj\Debug\Exercício001.csproj.AssemblyReference.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\obj\Debug\Exercício001.csproj.CoreCompileInputs.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\obj\Debug\Exercício001.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 1 - Nivelamento\Exercício001\obj\Debug\Exercício001.pdb
