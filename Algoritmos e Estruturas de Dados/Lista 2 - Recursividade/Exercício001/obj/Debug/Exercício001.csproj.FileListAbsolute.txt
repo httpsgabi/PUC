@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\bin\Debug\Exercício001.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\bin\Debug\Exercício001.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\bin\Debug\Exercício001.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\obj\Debug\Exercício001.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\obj\Debug\Exercício001.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\obj\Debug\Exercício001.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício001\obj\Debug\Exercício001.pdb

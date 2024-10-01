@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{C02BE066-7591-4AA7-8EB2-6EE2AD066252}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|solutionrelative:Exerc\u00EDcio003\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7892E0A6-1E33-4CDA-8EB6-952F1A528C54}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 10 - arquivos\\exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7892E0A6-1E33-4CDA-8EB6-952F1A528C54}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7892E0A6-1E33-4CDA-8EB6-952F1A528C54}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|solutionrelative:exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9304CCC-9759-4358-9C73-0569A745E9E2}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e t\u00E9cnicas de programa\u00E7\u00E3o\\lista 10 - arquivos\\exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9304CCC-9759-4358-9C73-0569A745E9E2}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e T\u00E9cnicas de Programa\u00E7\u00E3o\\Lista 10 - Arquivos\\exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9304CCC-9759-4358-9C73-0569A745E9E2}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Exerc\u00EDcio005\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T12:41:13.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T12:41:13.848Z"
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "RelativeToolTip": "Exerc\u00EDcio004\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:18:14.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:18:14.714Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "Exerc\u00EDcio003\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:18:14.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:18:14.789Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "Exerc\u00EDcio001\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAADwvykAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:18:14.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:18:14.789Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "Exerc\u00EDcio002\\Program.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAADwv0MAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:18:14.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:18:14.798Z"
             }
           ]
         }
