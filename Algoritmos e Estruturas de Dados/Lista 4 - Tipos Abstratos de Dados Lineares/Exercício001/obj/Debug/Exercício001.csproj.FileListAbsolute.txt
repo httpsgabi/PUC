@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\obj\Debug\Exercício001.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\obj\Debug\Exercício001.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\bin\Debug\Exercício001.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\bin\Debug\Exercício001.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\bin\Debug\Exercício001.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\obj\Debug\Exercício001.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 4 - Tipos Abstratos de Dados Lineares\Exercício001\obj\Debug\Exercício001.pdb
