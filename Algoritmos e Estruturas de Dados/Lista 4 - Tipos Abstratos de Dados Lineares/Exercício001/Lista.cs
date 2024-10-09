@@ -126,7 +126,7 @@ namespace Exercício001
                 throw new Exception("Erro! Lista vazia");
             }
 
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < count && index == -1; i++)
             {
                 if (lista[i] == x)
                 {
@@ -134,17 +134,9 @@ namespace Exercício001
                 }
             }
 
-            if (index == -1)
-            {
-                throw new Exception("Erro! Item não encontrado.");
-            }
+            Remover(index);
 
-            for (int i = index; i < count - 1; i++)
-            {
-                lista[i] = lista[i + 1];
-            }
 
-            count--;
         }
 
         public void Mostrar()

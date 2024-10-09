@@ -58,8 +58,7 @@ namespace Exercício001
 
         static void RemoverInicio(Lista1 TemposCorridas)
         {
-            double tempoRemovido = TemposCorridas.RemoverInicio();
-            Console.WriteLine($"Tempo removido: {tempoRemovido}");
+            TemposCorridas.RemoverInicio();
         }
 
         static void RemoverFim(Lista1 TemposCorridas)
@@ -162,5 +161,3 @@ namespace Exercício001
 
 
 }
-
-

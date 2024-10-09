@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Exercício002
 {
@@ -13,18 +12,18 @@ namespace Exercício002
         private int quant;
         private double preco;
 
-        Produto()
+        public Produto(string nome, int quant, double preco)
         {
-            nome = "";
-            quant = 0;
-            preco = 0;
+            this.nome = nome;
+            this.quant = quant;
+            this.preco = preco;
         }
 
         public string Nome { get; set; }
         public string Quant { get; set; }
         public string Preco { get; set; }
 
-        public string ToString()
+        public override string ToString()
         {
             return $"Nome: {quant}, Quantidade: {quant}, Preço: {preco}";
         }
