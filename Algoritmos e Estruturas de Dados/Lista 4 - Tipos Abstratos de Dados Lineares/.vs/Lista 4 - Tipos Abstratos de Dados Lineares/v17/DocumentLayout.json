@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ABA4692-F581-48DC-B73B-6F9C1C9AC3EC}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio002\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA4692-F581-48DC-B73B-6F9C1C9AC3EC}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|solutionrelative:exerc\u00EDcio002\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABA4692-F581-48DC-B73B-6F9C1C9AC3EC}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio002\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA4692-F581-48DC-B73B-6F9C1C9AC3EC}|Exerc\u00EDcio002\\Exerc\u00EDcio002.csproj|solutionrelative:exerc\u00EDcio002\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio005\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4958F2DB-442B-4B79-B7D0-809920DF4419}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio001\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4958F2DB-442B-4B79-B7D0-809920DF4419}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|solutionrelative:exerc\u00EDcio001\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 4 - tipos abstratos de dados lineares\\exerc\u00EDcio005\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132E0BB-AD5B-4E2F-BC38-EE43E822EB85}|Exerc\u00EDcio005\\Exerc\u00EDcio005.csproj|solutionrelative:exerc\u00EDcio005\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio001\\Lista.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio001\\Lista.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio001\\Lista.cs",
-              "RelativeToolTip": "Exerc\u00EDcio001\\Lista.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAlAAAA",
+              "DocumentIndex": 1,
+              "Title": "Arquivo.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Arquivo.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\Arquivo.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Arquivo.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\Arquivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:11:06.094Z",
+              "WhenOpened": "2024-10-11T13:05:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fila.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Fila.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\Fila.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Fila.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\Fila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:05:26.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio002\\Lista.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio002\\Lista.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio002\\Lista.cs",
-              "RelativeToolTip": "Exerc\u00EDcio002\\Lista.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAuwDQAAAAlAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio005\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio005\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio005\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:04:23.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio002\\Produto.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio002\\Produto.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 4 - Tipos Abstratos de Dados Lineares\\Exerc\u00EDcio002\\Produto.cs",
-              "RelativeToolTip": "Exerc\u00EDcio002\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:04:26.337Z",
+              "WhenOpened": "2024-10-11T13:03:50.473Z",
               "EditorCaption": ""
             }
           ]

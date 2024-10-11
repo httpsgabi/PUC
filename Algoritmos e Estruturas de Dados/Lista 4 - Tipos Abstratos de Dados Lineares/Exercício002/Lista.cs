@@ -38,23 +38,24 @@ namespace Exercício002
             Produto produto = null;
            
 
-            if (ListaProdutos.Length > count)
+            if (count == 0)
             {
                 throw new Exception("Erro");
             }
 
-            for (int i = 0; i <= count || contem != true; i++)
+            for (int i = 0; i <= count && contem != true; i++)
             {
                 if (nome.Equals(ListaProdutos[i].Nome))
                 {
                     contem = true;
                     produto = ListaProdutos[i];
+                    count2 = i;
                 }
             }
 
-            for (int i = count2 - 1; i < ListaProdutos.Length; i++)
+            for (int i = count2; i < count - 1; i++)
             {
-                ListaProdutos[i] = ListaProdutos[i + i];
+                ListaProdutos[i] = ListaProdutos[i + 1];
             }
 
             count--;
@@ -66,7 +67,7 @@ namespace Exercício002
         {
             for (int i = 0; i < count; i++)
             {
-                Console.WriteLine($"[nome: {ListaProdutos[i].Nome}, quantidade: {ListaProdutos[i].Quant}, preco: {ListaProdutos[i].Preco}]");
+                Console.WriteLine($"{ListaProdutos[i].ToString()}");
             }
         }
 
@@ -74,9 +75,9 @@ namespace Exercício002
         {
             bool contem = false;
 
-            for (int i = 0; i < count || contem == false; i++)
+            for (int i = 0; i < count && contem == false; i++)
             {
-                if (nome.Equals(ListaProdutos[i].Nome))
+                if (nome == ListaProdutos[i].Nome)
                 {
                     contem = true;
                 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,13 +20,27 @@ namespace Exercício002
             this.preco = preco;
         }
 
-        public string Nome { get; set; }
-        public string Quant { get; set; }
-        public string Preco { get; set; }
+        public string Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+
+        public int Quant
+        {
+            get { return quant; }
+            set { quant = value; }
+        }
+
+        public double Preco
+        {
+            get { return preco; }
+            set { preco = value; }
+        }
 
         public override string ToString()
         {
-            return $"Nome: {quant}, Quantidade: {quant}, Preço: {preco}";
+            return $"[nome: {nome}, quantidade: {quant}, preco: {preco}]";
         }
     }
 }

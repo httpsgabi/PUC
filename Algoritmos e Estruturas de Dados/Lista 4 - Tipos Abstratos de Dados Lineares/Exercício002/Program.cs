@@ -24,12 +24,13 @@ namespace Exercício002
             int opcaoMenu, quantProduto;
             double precoProduto;
             Lista1 ListaDeProdutos = new Lista1(100);
-           
+
 
             ExibirMenu();
             opcaoMenu = int.Parse(Console.ReadLine());
 
-            while (opcaoMenu != 5) {
+            while (opcaoMenu != 5)
+            {
 
                 switch (opcaoMenu)
                 {
@@ -62,7 +63,7 @@ namespace Exercício002
 
                         break;
                     case 4:
-                        Console.WriteLine("Digite o nome que deseja pesquisar");
+                        Console.WriteLine("Digite o nome que deseja pesquisar:");
                         string nomeItem = Console.ReadLine();
 
                         bool ehCadastrado = ListaDeProdutos.Pesquisar(nomeItem);
@@ -85,7 +86,11 @@ namespace Exercício002
                 ExibirMenu();
                 opcaoMenu = int.Parse(Console.ReadLine());
             }
+
+            Console.WriteLine("O programa sera encerrado.");
             Console.ReadLine();
         }
     }
 }
+
+
