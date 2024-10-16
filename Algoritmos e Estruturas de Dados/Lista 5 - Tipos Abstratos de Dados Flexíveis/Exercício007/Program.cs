@@ -337,7 +337,7 @@ internal class ListaDupla
     {
         CelulaDupla atual = ultimo;
 
-        while (atual != null)
+        while (atual != primeiro)
         {
             Console.WriteLine(atual.Elemento);
             atual = atual.Ant;
@@ -346,7 +346,7 @@ internal class ListaDupla
     public void PesquisarMusica(string nome)
     {
         CelulaDupla atual = primeiro;
-        while (atual != null)
+        while (atual != primeiro)
         {
             if (atual.Elemento.Equals(nome, StringComparison.OrdinalIgnoreCase))
             {
@@ -355,23 +355,23 @@ internal class ListaDupla
             }
             atual = atual.Prox;
         }
-        Console.WriteLine($"A musica não consta na lista");
+        Console.WriteLine($"A musica nao consta na lista");
     }
 
     public void PesquisarAnterior(string nome)
     {
         CelulaDupla atual = primeiro;
-        while (atual != null)
+        while (atual != ultimo)
         {
             if (atual.Elemento.Equals(nome, StringComparison.OrdinalIgnoreCase))
             {
-                if (atual.Ant != null)
+                if (atual.Ant != primeiro)
                 {
                     Console.WriteLine($"Musica anterior: {atual.Ant.Elemento}");
                 }
                 else
                 {
-                    Console.WriteLine("Não ha musica anterior");
+                    Console.WriteLine("Nao ha musica anterior");
                 }
                 return;
             }
@@ -382,17 +382,17 @@ internal class ListaDupla
     public void PesquisarPosterior(string nome)
     {
         CelulaDupla atual = primeiro;
-        while (atual != null)
+        while (atual != ultimo)
         {
             if (atual.Elemento.Equals(nome, StringComparison.OrdinalIgnoreCase))
             {
-                if (atual.Prox != null)
+                if (atual.Prox != ultimo)
                 {
-                    Console.WriteLine($"Mssica posterior: {atual.Prox.Elemento}");
+                    Console.WriteLine($"Musica posterior: {atual.Prox.Elemento}");
                 }
                 else
                 {
-                    Console.WriteLine("Não ha musica posterior");
+                    Console.WriteLine("Nao ha musica posterior");
                 }
                 return;
             }
@@ -402,11 +402,11 @@ internal class ListaDupla
     public void RemoverMusica(string nome)
     {
         CelulaDupla atual = primeiro;
-        while (atual != null)
+        while (atual != ultimo)
         {
             if (atual.Elemento.Equals(nome, StringComparison.OrdinalIgnoreCase))
             {
-                if (atual.Ant != null)
+                if (atual.Ant != primeiro)
                 {
                     atual.Ant.Prox = atual.Prox;
                 }
@@ -415,7 +415,7 @@ internal class ListaDupla
                     primeiro = atual.Prox;
                 }
 
-                if (atual.Prox != null)
+                if (atual.Prox != ultimo)
                 {
                     atual.Prox.Ant = atual.Ant;
                 }
@@ -424,11 +424,11 @@ internal class ListaDupla
                     ultimo = atual.Ant;
                 }
 
-                Console.WriteLine($"Musica {nome} removida");
+                Console.WriteLine($"Musica removida");
                 return;
             }
             atual = atual.Prox;
         }
-        Console.WriteLine($"Mssica {nome} não encontrada");
+        Console.WriteLine($"Musica {nome} nao encontrada");
     }
 }
