@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\bin\Debug\Exercício004.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\bin\Debug\Exercício004.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\bin\Debug\Exercício004.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\obj\Debug\Exercício004.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\obj\Debug\Exercício004.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\obj\Debug\Exercício004.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício004\obj\Debug\Exercício004.pdb
