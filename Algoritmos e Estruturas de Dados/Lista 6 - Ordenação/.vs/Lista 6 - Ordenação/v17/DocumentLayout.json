@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4DBFBA-16B1-4F1C-9426-C4D4AAD77B4E}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4DBFBA-16B1-4F1C-9426-C4D4AAD77B4E}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|solutionrelative:exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41DA093-E054-48F4-97AC-73FA9F99A39C}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41DA093-E054-48F4-97AC-73FA9F99A39C}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|solutionrelative:exerc\u00EDcio003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FBA99F-AAEA-45CD-AEE0-60FBDF831A5D}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FBA99F-AAEA-45CD-AEE0-60FBDF831A5D}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|solutionrelative:exerc\u00EDcio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio004\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio004\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio004\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio004\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:42:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio003\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio003\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio003\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio003\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:39:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio001\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio001\\Program.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAAB8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:35:21.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
