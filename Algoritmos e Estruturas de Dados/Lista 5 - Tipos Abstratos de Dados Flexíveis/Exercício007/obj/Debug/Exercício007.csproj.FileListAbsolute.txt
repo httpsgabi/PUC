@@ -5,3 +5,10 @@ C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\L
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.csproj.CoreCompileInputs.cache
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.exe
 C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.pdb
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\bin\Debug\Exercício007.exe.config
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\bin\Debug\Exercício007.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\bin\Debug\Exercício007.pdb
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.csproj.AssemblyReference.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.csproj.CoreCompileInputs.cache
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.exe
+C:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 5 - Tipos Abstratos de Dados Flexíveis\Exercício007\obj\Debug\Exercício007.pdb

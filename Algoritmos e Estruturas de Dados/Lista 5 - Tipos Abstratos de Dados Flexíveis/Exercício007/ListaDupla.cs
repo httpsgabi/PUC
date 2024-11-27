@@ -170,7 +170,7 @@ namespace Exercício007
         {
             CelulaDupla atual = ultimo;
 
-            while (atual != null)
+            while (atual != primeiro)
             {
                 Console.WriteLine(atual.Elemento);
                 atual = atual.Ant;
