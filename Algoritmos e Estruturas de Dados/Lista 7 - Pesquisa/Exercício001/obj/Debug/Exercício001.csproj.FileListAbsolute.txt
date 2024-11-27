@@ -1,0 +1,7 @@
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\bin\Debug\Exercício001.exe.config
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\bin\Debug\Exercício001.exe
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\bin\Debug\Exercício001.pdb
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\obj\Debug\Exercício001.csproj.AssemblyReference.cache
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\obj\Debug\Exercício001.csproj.CoreCompileInputs.cache
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\obj\Debug\Exercício001.exe
+D:\Users\1524475\Documents\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa\Exercício001\obj\Debug\Exercício001.pdb
