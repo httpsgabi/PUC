@@ -39,7 +39,9 @@ namespace Exercício001
             Aluno[] alunos;
             int tamVet;
             char continuar = 'S';
-            string nomeAluno;
+            string nomeAluno, nomeENota;
+
+            string[] nomeENotas = new string[2]; 
 
             Console.WriteLine("Informe N:");
             tamVet = int.Parse(Console.ReadLine());
@@ -48,8 +50,12 @@ namespace Exercício001
 
             for(int i = 0; i < alunos.Length; i++) {
 
-                alunos[i].Nome = Console.ReadLine();
-                alunos[i].Nota = int.Parse(Console.ReadLine());
+                alunos[i] = new Aluno();
+                nomeENota = Console.ReadLine();
+                nomeENotas = nomeENota.Split(',');
+                
+                alunos[i].Nome = nomeENotas[0];
+                alunos[i].Nota =int.Parse(nomeENotas[1]);
 
             }
 
@@ -58,13 +64,48 @@ namespace Exercício001
                 Console.WriteLine("Informe o nome:");
                 nomeAluno = Console.ReadLine();
 
-                Console.WriteLine($"Nota: " + PesquisaBinaria(alunos, nomeAluno)); 
+                if (PesquisaBinaria(alunos, nomeAluno) == 0)
+                {
+                    Console.WriteLine("Aluno nao consta na base");
+                }
+                else
+                {
+                    Console.WriteLine("Nota: ");
+
+                }
 
                 Console.WriteLine("Continuar?[S ou N]");
+                continuar = char.Parse(Console.ReadLine()); 
 
             } while (continuar != 'N');
 
         }
     }
 
+
+}
+internal class Aluno
+{
+    private string nome;
+    private int nota;
+
+    public Aluno()
+    {
+        this.nome = "";
+        this.nota = 0;
+    }
+
+    public string Nome
+    {
+
+        get { return nome; }
+        set { nome = value; }
+    }
+
+    public int Nota
+    {
+
+        get { return nota; }
+        set { nota = value; }
+    }
 }

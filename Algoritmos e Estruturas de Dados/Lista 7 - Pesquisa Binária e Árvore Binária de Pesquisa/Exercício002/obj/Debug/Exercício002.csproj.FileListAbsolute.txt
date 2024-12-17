@@ -1,0 +1,2 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa Binária e Árvore Binária de Pesquisa\Exercício002\obj\Debug\Exercício002.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 7 - Pesquisa Binária e Árvore Binária de Pesquisa\Exercício002\obj\Debug\Exercício002.csproj.CoreCompileInputs.cache

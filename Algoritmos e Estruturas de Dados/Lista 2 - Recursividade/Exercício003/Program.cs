@@ -10,23 +10,19 @@ namespace Exercício003
     {
         static void Conversor(int numDecimal)
         {
-            if (numDecimal >= 2)
+            if(numDecimal == 1)
+            { 
+                Console.Write(numDecimal % 2);
+            }
+            else
             {
                 Conversor(numDecimal / 2);
+                Console.Write(numDecimal % 2);
             }
-
-            Console.Write(numDecimal % 2);
         }
         static void Main(string[] args)
         {
-            int numDecimal;
-
-            Console.WriteLine("Digite o numero decimal para convertê-lo para binário");
-
-            numDecimal = int.Parse(Console.ReadLine());
-
-            Conversor(numDecimal);
-
+            Conversor(10);
             Console.ReadLine();
         }
     }

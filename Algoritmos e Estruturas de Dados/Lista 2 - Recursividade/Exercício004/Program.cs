@@ -10,38 +10,28 @@ namespace Exercício004
     {
         static int Mdc(int num1, int num2)
         {
-            int maior, menor;
+            int mdc;
 
             if (num1 == num2)
             {
-                return num1;
-            }
-
-            if (num1 > num2)
-            {
-                maior = num1;
-                menor = num2;
+                mdc = num1;
             }
             else
             {
-                maior = num2;
-                menor = num1;
-            }
+                if (num1 > num2) {
+                    mdc = Mdc(num1 - num2, num2);
+                }
+                else{
+                    mdc = Mdc(num2, num1);
+                }
+               
+            }            
 
-            return Mdc(maior - menor, menor);
+            return mdc;
         }
         static void Main(string[] args)
         {
-            int mdc, num1, num2; 
-
-            Console.WriteLine("Digite dois numeros para calcular o mdc: ");
-            num1 = int.Parse(Console.ReadLine());
-            num2 = int.Parse(Console.ReadLine());
-
-            mdc = Mdc(num1, num2);
-
-            Console.WriteLine(mdc);
-
+            Console.WriteLine(Mdc(10, 4));
             Console.ReadLine();
         }
         

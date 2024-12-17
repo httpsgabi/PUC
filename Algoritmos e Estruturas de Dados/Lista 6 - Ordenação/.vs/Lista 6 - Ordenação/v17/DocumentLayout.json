@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F4DBFBA-16B1-4F1C-9426-C4D4AAD77B4E}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4DBFBA-16B1-4F1C-9426-C4D4AAD77B4E}|Exerc\u00EDcio004\\Exerc\u00EDcio004.csproj|solutionrelative:exerc\u00EDcio004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABF32A9A-125C-4860-90E9-BF3E49FA2228}|Itens de Solu\u00E7\u00E3o{ABF32A9A-125C-4860-90E9-BF3E49FA2228}|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcios Extras.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABF32A9A-125C-4860-90E9-BF3E49FA2228}|Itens de Solu\u00E7\u00E3o{ABF32A9A-125C-4860-90E9-BF3E49FA2228}|solutionrelative:Exerc\u00EDcios Extras.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41DA093-E054-48F4-97AC-73FA9F99A39C}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E41DA093-E054-48F4-97AC-73FA9F99A39C}|Exerc\u00EDcio003\\Exerc\u00EDcio003.csproj|solutionrelative:exerc\u00EDcio003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{009B2948-5E07-46D0-8937-9150D3CF3804}|Exerc\u00EDcio001-Extra\\Exerc\u00EDcio001-Extra.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio001-extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009B2948-5E07-46D0-8937-9150D3CF3804}|Exerc\u00EDcio001-Extra\\Exerc\u00EDcio001-Extra.csproj|solutionrelative:exerc\u00EDcio001-extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FBA99F-AAEA-45CD-AEE0-60FBDF831A5D}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FBA99F-AAEA-45CD-AEE0-60FBDF831A5D}|Exerc\u00EDcio001\\Exerc\u00EDcio001.csproj|solutionrelative:exerc\u00EDcio001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51016000-36D7-492C-8C17-6893FECD9DE9}|Exerc\u00EDcio9-Extra\\Exerc\u00EDcio009-Extra.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 6 - ordena\u00E7\u00E3o\\exerc\u00EDcio9-extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51016000-36D7-492C-8C17-6893FECD9DE9}|Exerc\u00EDcio9-Extra\\Exerc\u00EDcio009-Extra.csproj|solutionrelative:exerc\u00EDcio9-extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,46 +21,46 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 262,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio004\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio004\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio004\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio004\\Program.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAAIYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:42:03.043Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio003\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio003\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio003\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio003\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001-Extra\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio001-Extra\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001-Extra\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio001-Extra\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:39:52.986Z",
+              "WhenOpened": "2024-12-16T15:08:08.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001\\Program.cs",
-              "RelativeDocumentMoniker": "Exerc\u00EDcio001\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio001\\Program.cs",
-              "RelativeToolTip": "Exerc\u00EDcio001\\Program.cs",
-              "ViewState": "AQIAAPsAAAAAAAAAAAAAAB8BAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio9-Extra\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio9-Extra\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcio9-Extra\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio9-Extra\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T16:35:21.822Z",
+              "WhenOpened": "2024-12-16T14:43:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exerc\u00EDcios Extras.txt",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcios Extras.txt",
+              "RelativeDocumentMoniker": "Exerc\u00EDcios Extras.txt",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 6 - Ordena\u00E7\u00E3o\\Exerc\u00EDcios Extras.txt",
+              "RelativeToolTip": "Exerc\u00EDcios Extras.txt",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T14:34:10.859Z",
               "EditorCaption": ""
             }
           ]

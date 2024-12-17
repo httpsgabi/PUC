@@ -1,0 +1,39 @@
+1. Algoritmo de Seleção
+
+	Exercício 1: Considere o seguinte vetor:
+	[29, 10, 14, 37, 13]
+	Aplique o algoritmo de ordenação Seleção para ordenar esse vetor de forma crescente.
+	Quantos passos você precisa para ordenar completamente o vetor? Mostre a cada iteração qual é o vetor após a troca.
+
+	Exercício 2: Dado o vetor [55, 23, 89, 12, 44, 66], descreva o comportamento do algoritmo de Seleção. Em cada passo do algoritmo, indique o índice do menor elemento encontrado e a troca realizada.
+
+2. Algoritmo de Bolha (Bubble Sort)
+
+	Exercício 3: Considere o vetor [34, 7, 23, 32, 5, 62].
+	Aplique o algoritmo Bolha para ordenar o vetor em ordem crescente.
+	Quantas comparações e trocas são feitas até o vetor ficar ordenado? Mostre o estado do vetor após cada passagem.
+
+	Exercício 4: Dado o vetor [8, 19, 3, 12, 5], faça uma análise de complexidade do algoritmo Bolha. Em seguida, simule a execução do algoritmo até que o vetor esteja ordenado e mostre como o vetor se modifica a cada iteração.
+
+3. Algoritmo de Inserção
+	
+	Exercício 5: Dado o vetor [5, 8, 2, 9, 1], aplique o algoritmo Inserção para ordená-lo em ordem crescente.
+	Mostre as modificações do vetor após cada inserção de um novo elemento
+	na posição correta.
+	Quantas trocas e comparações são feitas durante o processo?
+
+	Exercício 6: Considere o vetor [3, 1, 4, 1, 5, 9]. Aplique o algoritmo Inserção e descreva como o vetor é modificado após cada iteração do algoritmo.
+
+4. Algoritmo de Quicksort
+
+	Exercício 7: Dado o vetor [13, 19, 8, 7, 2, 3], execute o algoritmo Quicksort para ordenar esse vetor em ordem crescente.
+
+	Mostre os passos do algoritmo, incluindo as escolhas de pivôs e os particionamentos feitos.
+	Quantos passos o algoritmo realiza até o vetor ser totalmente ordenado?
+
+	Exercício 8: Considere o vetor [10, 7, 8, 9, 1, 5]. Execute o algoritmo Quicksort no vetor e mostre detalhadamente cada chamada recursiva, os pivôs escolhidos e os subvetores resultantes após a partição.
+
+	Exercício 9: Implemente um método que receba um vetor de jogadores(Jogador[]) como parâmetro e o ordene em ordem decrescente pela altura. A classe possui os seguintes atributos: id, nome, altura, peso, universidade, anoNasc, e estadoNasc.
+
+	Ordene usando os 4 algoritmos de ordenação acima descritos. Descreva a principal vantagem de cada algoritmo e a principal descantagem.
+

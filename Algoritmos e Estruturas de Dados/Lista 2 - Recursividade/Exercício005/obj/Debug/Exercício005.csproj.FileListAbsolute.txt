@@ -5,3 +5,10 @@ C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Rec
 C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício005\bin\Debug\Exercício005.pdb
 C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.exe
 C:\Users\gabri\OneDrive\Documentos\GitHub\ATP-TrabalhoPratico-2024\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\bin\Debug\Exercício005.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\bin\Debug\Exercício005.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\bin\Debug\Exercício005.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 2 - Recursividade\Exercício005\obj\Debug\Exercício005.pdb

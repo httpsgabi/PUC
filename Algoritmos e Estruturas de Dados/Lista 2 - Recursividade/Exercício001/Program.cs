@@ -8,33 +8,25 @@ namespace Exercício001
 {
     internal class Program
     {
-        static int Potencia (int num1, int num2)
+        static int Potencia (int a, int n)
         {
-            int resultado;
+            int res = a, count = n;
 
-            if(num2 == 1)
+            if (count == 1) {
+                res = a;
+            }
+            else
             {
-                resultado = num1;
-            }
-            else {
-                resultado = num1 * Potencia(num1, num2 - 1);
+                res = a * Potencia(res, count - 1);
             }
 
-            return resultado;
-
+            return res;
         }
         static void Main(string[] args)
         {
-            int num1, num2, resultado;
+            Console.WriteLine(Potencia(3, 3));
 
-            Console.WriteLine("Digite dois números inteiros e positivos");
-
-            num1 = int.Parse(Console.ReadLine());
-            num2 = int.Parse(Console.ReadLine());   
-
-            resultado = Potencia(num1, num2);
-
-            Console.WriteLine(resultado);
+            Console.WriteLine(14%7);
 
             Console.ReadLine();
         }

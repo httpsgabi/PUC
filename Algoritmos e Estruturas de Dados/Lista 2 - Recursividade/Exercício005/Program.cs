@@ -10,15 +10,20 @@ namespace Exercício005
     {
         static int Negativos(int[] vet, int tamanho)
         {
-            int num = vet[tamanho - 1] < 0 ? 1 : 0;
-
-            if (tamanho == 1)
+            if (tamanho == 0)
             {
-                return num;
+                return 0;
             }
             else
             {
-                return num + Negativos(vet, tamanho - 1);
+                int contaNegativos = 0;
+
+                if (vet[tamanho - 1] < 0)
+                {
+                    contaNegativos++;
+                }
+
+                return contaNegativos + Negativos(vet, tamanho -1);
             }
         }
         static void Main(string[] args)

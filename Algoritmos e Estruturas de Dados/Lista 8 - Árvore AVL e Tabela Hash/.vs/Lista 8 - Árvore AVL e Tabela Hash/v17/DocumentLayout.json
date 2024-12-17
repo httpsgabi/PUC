@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\testandohash\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|solutionrelative:testandohash\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\testandohash\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|solutionrelative:testandohash\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\testandohash\\hashlinear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|solutionrelative:testandohash\\hashlinear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\testandohash\\celula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|solutionrelative:testandohash\\celula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\testandohash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1778E-0AD9-461C-87CD-61ADA8A5B59F}|TestandoHash\\TestandoHash.csproj|solutionrelative:testandohash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A843C-E9D2-4351-B209-7E9D745511D7}|Exec\u00EDcio005\\Exec\u00EDcio005.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\puc\\algoritmos e estruturas de dados\\lista 8 - \u00E1rvore avl e tabela hash\\exec\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7A843C-E9D2-4351-B209-7E9D745511D7}|Exec\u00EDcio005\\Exec\u00EDcio005.csproj|solutionrelative:exec\u00EDcio005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC66A637-AC4D-4381-A51B-5815F8777E2C}|Exerc\u00EDcio007\\Exerc\u00EDcio007.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\exerc\u00EDcio007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC66A637-AC4D-4381-A51B-5815F8777E2C}|Exerc\u00EDcio007\\Exerc\u00EDcio007.csproj|solutionrelative:exerc\u00EDcio007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC19B8-5204-4D49-A98D-B6CC0AF0FAED}|Exerc\u00EDcio006\\Exerc\u00EDcio006.csproj|C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\exerc\u00EDcio006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC19B8-5204-4D49-A98D-B6CC0AF0FAED}|Exerc\u00EDcio006\\Exerc\u00EDcio006.csproj|solutionrelative:exerc\u00EDcio006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashLinear.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\HashLinear.cs",
+              "RelativeDocumentMoniker": "TestandoHash\\HashLinear.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\HashLinear.cs",
+              "RelativeToolTip": "TestandoHash\\HashLinear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:53:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Celula.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Celula.cs",
+              "RelativeDocumentMoniker": "TestandoHash\\Celula.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Celula.cs",
+              "RelativeToolTip": "TestandoHash\\Celula.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:18:06.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Lista.cs",
+              "RelativeDocumentMoniker": "TestandoHash\\Lista.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Lista.cs",
+              "RelativeToolTip": "TestandoHash\\Lista.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:01:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hash.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Hash.cs",
+              "RelativeDocumentMoniker": "TestandoHash\\Hash.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Hash.cs",
+              "RelativeToolTip": "TestandoHash\\Hash.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:57:38.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Program.cs",
+              "RelativeDocumentMoniker": "TestandoHash\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\TestandoHash\\Program.cs",
+              "RelativeToolTip": "TestandoHash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:57:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exec\u00EDcio005\\Program.cs",
+              "RelativeDocumentMoniker": "Exec\u00EDcio005\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exec\u00EDcio005\\Program.cs",
+              "RelativeToolTip": "Exec\u00EDcio005\\Program.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAwNIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:51:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exerc\u00EDcio007\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio007\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exerc\u00EDcio007\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio007\\Program.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:08:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exerc\u00EDcio006\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio006\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PUC\\Algoritmos e Estruturas de Dados\\Lista 8 - \u00C1rvore AVL e Tabela Hash\\Exerc\u00EDcio006\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio006\\Program.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv7MAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:04:52.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

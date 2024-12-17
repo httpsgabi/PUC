@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\bin\Debug\Exercício003-Extra.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\bin\Debug\Exercício003-Extra.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\bin\Debug\Exercício003-Extra.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\obj\Debug\Exercício003-Extra.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\obj\Debug\Exercício003-Extra.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\obj\Debug\Exercício003-Extra.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\PUC\Algoritmos e Estruturas de Dados\Lista 6 - Ordenação\Exercício003-Extra\obj\Debug\Exercício003-Extra.pdb
